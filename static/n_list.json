@@ -1,0 +1,415 @@
+{
+    "list" : {
+         "bl" : [
+                    {
+                     "serial_num": "170401630",
+                     "title" : "검의 승리",
+                     "author" : "장소영",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170401630",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170401630&page=rental10",
+                     "desc" : "대한민국 스타 검사, 사기 당하다!<br />앞길이 탄탄대로인 그가 전세 사기를 당하다.<br />엎친 데 덮친다고 당돌하고 건방진 여자와 같이 한 집에 살라고?",
+                     "pc_save" : "http://www.bookcube.com/event_detail.asp?event_num=5252&event_type=rm&page=rm&pageNum=1",
+                     "mobile_save" : "http://www.bookcube.com/book/m/event_detail.asp?event_num=5252"
+                    },{
+                     "serial_num": "170403356",
+                     "title" : "마리오네트 신부",
+                     "author" : "이수진",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=170403356&page=rent_long",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170403356&page=rental10",
+                     "desc" : "'신부가 되려고 돌아왔어.'<br />단 한 번의 만남으로 묶여버린 마리오네트,지효.<br />탈출을 꿈꾸며 도망친 그녀가 다시 돌아왔다.",
+                     "pc_save" : "http://www.bookcube.com/event_detail.asp?event_num=5322&event_type=rm&page=rm&pageNum=1",
+                     "mobile_save" : "http://www.bookcube.com/book/m/event_detail.asp?event_num=5322&event_class=rm"
+                    },{
+                     "serial_num": "170500066",
+                     "title" : "그렇게 웃지 말아줘",
+                     "author" : "김민",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=170500066&page=rent_long",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170500066&page=rental10",
+                     "desc" : "분주하게 돌아가는 병원은 폭격 때문에 의료인, 환자 모두 흙 얼룩과 피범벅이었다.<br />태한 혼자 독보적으로 깔끔한 슈트를 입은 멋진 모습이었다.<br />이유 막론하고 절대 어디 가지 말아요, 권태한 씨.",
+                     "pc_save" : "http://www.bookcube.com/event_detail.asp?event_num=5410&event_type=rm&page=rm&pageNum=1",
+                     "mobile_save" : "http://www.bookcube.com/book/m/event_detail.asp?event_num=5410&event_class=rm"
+                    },{
+                     "serial_num": "170800196",
+                     "title" : "FILL (필)",
+                     "author" : "이래서",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=170800196&page=rent_long",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170800196&page=rental10",
+                     "desc" : "'홀려 놓고 도망가는 건 아니지?'<br />머물지도 못하고 다음으로 넘어가지도 못하는<br />하지만 접어 두었다, 마음을.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170801241",
+                     "title" : "위험한 도발",
+                     "author" : "하미서",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170801241",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170801241&page=rental10",
+                     "desc" : "'네 입으로 대답해. 나와 함께하겠다고.'<br />이런 나라도 괜찮다면 함께하고 싶어요.<br />하저도 그 끝이 어딘지 궁금하거든요.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170801867",
+                     "title" : "필로우 토크 인 괌 (Pillow Talk In Guam)",
+                     "author" : "설여정",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170801867",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170801867&page=rental10",
+                     "desc" : "'이 모든 게 꿈 같아요. 내게 벌어지는 일들이 나는…….'<br />먼저 다가온 것은 그의 뜨거운 숨결이었다.<br />저도 모르게 스르륵 그녀의 두 눈이 감겼다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170803012",
+                     "title" : "위험한 상사",
+                     "author" : "고여운",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170803012",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170803012&page=rental10",
+                     "desc" : "'조금 거칠어도 이해해. 내가 지금 한계거든.'<br />혼미해진 정신, 그리고 달콤한 유혹<br />하룻밤의 인연이 회사로 이어질 줄 몰랐다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170803473",
+                     "title" : "은밀한 약혼",
+                     "author" : "강선영(홍차)",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170803473",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170803473&page=rental10",
+                     "desc" : "'첫 키스, 나와 해보지 않겠어요?'<br />그러곤 빼앗아갔다, 그녀의 처음 중 하나를.진하고 독한 라임 향을 남긴 채.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170805212",
+                     "title" : "내 비서가 싫은 8가지 이유",
+                     "author" : "커리",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170805212",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170805212&page=rental10",
+                     "desc" : "'이게 한여름 밤의 꿈에 불과하다면……저도 좋습니다.'<br />마지막이라면, 정말 마지막이라면…<br />당신과 옆을 지키고 싶었어요.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170905745",
+                     "title" : "돌봄",
+                     "author" : "한을",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170905745",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170905745&page=rental10",
+                     "desc" : "'숨겨둔 딸…… 숨겨둔 딸이라.'<br />하락한 이미지 개선을 위해 나선 일일 아빠, 지욱.<br />애어른 봄이, 어딘가 그녀와 많이 닮았다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170909120",
+                     "title" : "주신의 노리개",
+                     "author" : "화연 윤희수",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170909120",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170909120&page=rental10",
+                     "desc" : "'숨을 쉬는게 좋을 것이다. 살아있어야 날 만족시킬 수 있을테니.'<br />주신의 자리에서 내려오는 자<br />반려의 몸과 마음을 얻어 후세를 얻으라",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170909584",
+                     "title" : "엄마가 너랑 결혼하래",
+                     "author" : "김지언",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170909584",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170909584&page=rental10",
+                     "desc" : "5급 공무원 석주영, 외과 교수 최종규.<br />결혼 먼저 연애 나중. 동갑내기 배꼽친구 아내를 위해 독박 가사, 독박육아.<br />남편 잠자리 취향이 나쁜(?)건 안비밀. ",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "170905217",
+                     "title" : "후배님, 이러면 곤란해",
+                     "author" : "화련",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=170905217",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=170905217&page=rental10",
+                     "desc" : "'연하는 안 만나. 절대로.'<br />마음이 흔들리는 건 한순간일지도 모른다.<br />그런 그녀에게 그는 또 한 걸음 다가간다. 위험하게",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171000805",
+                     "title" : "감동이어라",
+                     "author" : "한을",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=171000805",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171000805&page=rental10",
+                     "desc" : "'하마터면 9살짜리 할머니를 모실 뻔했네.'<br />서로가 하늘이 되고 구원이 되는 가슴 따뜻한 이야기, 감동이어라.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171002312",
+                     "title" : "BACHATA - 연인들의 춤",
+                     "author" : "이래서",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?page=rent_long&book_num=171002312",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171002312&page=rental10",
+                     "desc" : "환상인 것처럼 찰나처럼 눈앞에 있다가 사라진 여자.<br />만날 때마다 혼을 빼놓는 이 여자가 오늘따라 하얗게 빛나던 이 여자가 심장을 간지럽힌다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171000835",
+                     "title" : "달콤하게 또 잔인하게",
+                     "author" : "신경희",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171000835",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171000835&page=buy",
+                     "desc" : "'뭐냐. 도대체 너 뭔데, 이렇게 신경 쓰이는 거야.'<br />까칠한 집주인 정현에게 나타난 살가운 세입자 하림!<br />이 만남, 뭔가 달콤하다?! 아니 잔인하다?!",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171102455",
+                     "title" : "그 남자의 끝사랑",
+                     "author" : "파란수국",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171102455",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171102455&page=buy",
+                     "desc" : "'다시 나를…… 사랑해줄 수 있어요?'<br />모든 비난을 다 감수하고서라도 갖고 싶었던 그녀.<br />어느 봄날, 그녀가 내 눈앞에 나타났다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171103337",
+                     "title" : "후배의 유혹",
+                     "author" : "김은유",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171103337",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171103337&page=buy",
+                     "desc" : "'괜찮으시겠습니까? 제가 곁에 있어도.'<br />싫지. 정말 완전히 싫지.<br />전 남자친구의 사수를 해야 하는 상황이라니…",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171104145",
+                     "title" : "그가 내 안으로 들어왔다",
+                     "author" : "최현자(허시사랑)",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171104145",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171104145&page=buy",
+                     "desc" : "'죽기 딱 좋은 날이네. 별도 예쁘고, 달도 예쁘고.'<br />죽고 싶었던 그날, 당신을 만났습니다.<br />그리고 당신이 내민 손을 잡았습니다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171105218",
+                     "title" : "불건전 교제",
+                     "author" : "김희진",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171105218",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171105218&page=buy",
+                     "desc" : "'나랑 진하게 사귀어 보는 거, 동의해요?'<br />순수하고 건전한 거 말고 야한 연애 제안<br />어떡해! 거절의 말이 나오질 않아!",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171105666",
+                     "title" : "변심 : 너에게로 흐르는",
+                     "author" : "유송주",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171105666",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171105666&page=buy",
+                     "desc" : "다른 거 아무것도 신경 쓰지 말고 딱 한 번만.<br />그냥 남자와 여자.<br />그렇게…… 우리 시작하자.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171106826",
+                     "title" : "곁",
+                     "author" : "이래서",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171106826",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171106826&page=buy",
+                     "desc" : "'너 되게 예뻐. 만지고, 싶을 만큼.'<br />서로에게 곁을 내어주기 시작한<br />아주 조금 서툰 남과 여의 이야기",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171200268",
+                     "title" : "너의 입술을 훔쳐",
+                     "author" : "커리",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171200268",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171200268&page=buy",
+                     "desc" : "'첫날이니까, 오늘은 여기까지 하지.'<br />첫 키스, 첫날밤.<br />그 황홀한 단어들이 물거품처럼 사라져 갔다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171201250",
+                     "title" : "그의 인형",
+                     "author" : "이기옥",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171201250",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171201250&page=buy",
+                     "desc" : "갖고 놀기 좋은 장식품<br />예쁘고 아끼는 귀한 애장품<br />당신에게 난 어떤 인형인가요?",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171202574",
+                     "title" : "왜냐고 묻는 당신에게",
+                     "author" : "여름궁전",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171202574",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171202574&page=buy",
+                     "desc" : "'준오 씨. 미안해. 나, 안되겠어. 미안해, 정말.'<br />제발 이대로 나에게 와주길.<br />입맞춤을 허락하듯 내 사랑도 허락해주길.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171205055",
+                     "title" : "뫼비우스 (Moebius)",
+                     "author" : "김한나(석류알갱)",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171205055",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171205055&page=buy",
+                     "desc" : "아름다운 동화의 끝이 잔혹하게 변질된 순간<br />복수는 시작되었고 기쁘게도 우리의 뫼비우스는 아직 끝나지 않았다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171206898",
+                     "title" : "숨겨진 여자",
+                     "author" : "신해",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171206898",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171206898&page=buy",
+                     "desc" : "'기다려, 이제 겨우 시작이니까.'<br />차분한 그 남자의 목소리.<br />그러나 그 안에 감춰진 열락은 미처 지워지지 않았다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "171207404",
+                     "title" : "작은 아가씨들 : 둘째 이야기, 신시아",
+                     "author" : "밀밭",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=171207404",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=171207404&page=buy",
+                     "desc" : "하치 家 세 자매의 두근두근 로맨스. 둘째, 신시아<br />재기발랄 작가지망생 신디♡새로 부임한 교장 데미안<br />'4년 전 하룻밤을 보낸 상대가 복수의 칼을 갈고 돌아온다면……?'",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "180103113",
+                     "title" : "인사이드 레이디 (Inside Lady)",
+                     "author" : "문희",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=180103113",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=180103113&page=buy",
+                     "desc" : "남장녀의 섹시한 도발에 누구보다 냉철한 그가 속절없이 무너지고 있다.<br />김민철, 인생최대의 에로틱 사건이 벌어진다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "180104039",
+                     "title" : "내세에 갚겠소",
+                     "author" : "렐레",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=180104039",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=180104039&page=buy",
+                     "desc" : "물건을 강탈하고 다니는 반인반수 여우족 새미.<br />'내세는 없다. 넌 이번 생이 마지막이다.'<br />그게 무슨 소리요, 천제님! 이번 생이 마지막이라니!",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "180104603",
+                     "title" : "나락",
+                     "author" : "한을",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=180104603",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=180104603&page=buy",
+                     "desc" : "'너야 말로 이러지 마. 구질구질해.'<br />그렇게 너를 떠난 그 길이 더 지옥일 줄 몰랐다.<br />너가 나타나기 전까지도…",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "180105485",
+                     "title" : "짙은, 우리",
+                     "author" : "태은",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=180105485",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=180105485&page=buy",
+                     "desc" : "우연히 들렀던 작은 편의점에서의 재회<br />푸풋하고 순수했던 학창시절<br />서로가 서로에게 첫사랑이었던, 너 그리고 나",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "180106038",
+                     "title" : "금단의 열매",
+                     "author" : "브루니",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?book_num=180106038",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?book_num=180106038&page=buy",
+                     "desc" : "'그때도, 지금도 너 하나만 원해. 난 언제나 너만 원해, 너만…'<br />이어질 수 없다는 것을 알면 알수록 더 애타는 그런.<br />포기해야만 했던 사랑 끝에 남겨진 한 연인의 이야기.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918005032",
+                     "title" : "리턴 (Return)",
+                     "author" : "단영",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918005032&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918005032&page=buy",
+                     "desc" : "'사, 살려…… 살려 주…….'<br />딸랑! 남편에게 죽임을 당할 뻔했던 순간은 모두 사라지고,<br />그와 결혼하기 전으로 돌아왔다.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918005560",
+                     "title" : "첫 번째가 아니면 싫어",
+                     "author" : "김민",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918005560&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918005560&page=buy",
+                     "desc" : "'네 첫번째는 전부 내 거야.'<br />누구한테도 너의 첫 번째를 뺏기지 않아.<br />인생에서 너를 빼면 남는 건 없어. 알아?",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918005908",
+                     "title" : "너를 파괴하다",
+                     "author" : "하나이",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918005908&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918005908&page=buy",
+                     "desc" : "'딸을 잘 부탁하네. 어미 사랑을 모르고 컸어.'<br />그에게 그저 아픔이 있다고만 생각했다. 하지만 오로지 복수만을 위해 나를 이용했을 뿐….",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918006279",
+                     "title" : "밤의 온도",
+                     "author" : "님사랑",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918006279&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918006279&page=buy",
+                     "desc" : "한 지붕에서 시작되는 짜릿한 재회 로맨스.<br />얼음처럼 차가운 남자, 마태주.<br />얼떨결에 한 남자를 구한 여자, 유영민",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918006623",
+                     "title" : "로맨스 작가와 변태 의사",
+                     "author" : "신채은",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918006623&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918006623&page=buy",
+                     "desc" : "달콤한 로맨스를 꿈꾸는 작가, 송나리.<br />졸지에 변태가 된 의사, 민충현.<br />오해로 시작된 그들의 사랑은 과연…?!",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918008352",
+                     "title" : "비서의 정원",
+                     "author" : "오수진",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918008352&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918008352&page=buy",
+                     "desc" : "자신의 모든 것을 바칠 준비가 된 비서, 서민영<br />그녀에게 남자로 다가가고픈 보스, 강성준<br />능력 있는 비서와 직진남 보스의 아찔한 사내연애",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918008555",
+                     "title" : "사랑한다, 또 사랑한다",
+                     "author" : "이희정",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918008555&page=",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918008555&page=buy",
+                     "desc" : "'내가 아직도… 밉니?'<br />'아니. 당신은 이제 나한테 아무것도 아니야.'<br />캠퍼스 커플로 만나 뜨겁게 사랑하고 이혼한 부부, 그들의 운명은?",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918008967",
+                     "title" : "이건, 이건 아니지",
+                     "author" : "윤경민(로일)",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918008967",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918008967&page=buy",
+                     "desc" : "'여전… 하네.'<br />'네? 무슨 말씀이신지?'<br />기억을 잃고 운명처럼 재회한 두 사람은 과연?",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918009165",
+                     "title" : "트러블? 트래블! (Trouble?, Travel!)",
+                     "author" : "임은경",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918009165",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918009165&page=buy",
+                     "desc" : "'도쿄에서 만난 고석훈입니다. 잘 지냈어요?'4박 5일간의 도쿄 여행에서 만난 그 남자, 한국에서 다시 마주하다!",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "918009568",
+                     "title" : "폭군의 여자",
+                     "author" : "정연주(로코)",
+                     "pc_link" : "http://www.bookcube.com/detail.asp?series_num=918009568",
+                     "mobile_link" : "http://www.bookcube.com/book/m/detail.asp?series_num=918009568&page=buy",
+                     "desc" : "'네가 좋아하는 인간이 되도록 노력할 거야. 그러니까 날 사랑해줘.'<br />여자를 마음대로 휘두르던 폭군 강지환,<br />과연 그는 진정한 사랑에 빠질 수 있을까?",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    }
+         ],
+         "one" : [
+                   {
+                     "serial_num": "se2777",
+                     "title" : "꽃이 되어 나빌레라",
+                     "author" : "수련",
+                     "pc_link" : "http://www.bookcube.com/novel/detail.asp?buytype=rental&serial_num=se2777",
+                     "mobile_link" : "http://www.bookcube.com/novel/m/detail.asp?serial_num=se2777&buytype=rental",
+                     "desc" : "생의 모든 것을 다 기억하는 고통스러운 삶을 사는 조선의 왕자, 이운.<br />그리고 지난 삶의 모든 것은 잊고 자신의 운명을 헤쳐 가는 여인, 은목의 운명 같은 연모 이야기.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    },{
+                     "serial_num": "se2882",
+                     "title" : "Love is",
+                     "author" : "한효진",
+                     "pc_link" : "http://www.bookcube.com/novel/detail.asp?buytype=rental&serial_num=se2882",
+                     "mobile_link" : "http://www.bookcube.com/novel/m/detail.asp?serial_num=se2882&buytype=rental",
+                     "desc" : "그러던 어느 날, 도희에겐 어느 누구에게도 말할 수 없는 비밀이 있다는 것을 알았다. 그것은…….<br />사랑이란 이름으로 미쳐버린 두 사람의 이야기.",
+                     "pc_save" : "",
+                     "mobile_save" : ""
+                    } 
+         ]
+     }
+ }
